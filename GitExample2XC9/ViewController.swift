@@ -22,6 +22,9 @@ class ViewController: NSViewController {
         }
     }
 
+    func myFunc(p1: String){
+        
+    }
 
 }
 
