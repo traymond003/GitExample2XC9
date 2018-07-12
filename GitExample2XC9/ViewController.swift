@@ -23,7 +23,7 @@ class ViewController: NSViewController {
     }
 
     func myFunc(p1: String){
-        
+        print("some changes made in MyFirstBranch" );
     }
 
 }
